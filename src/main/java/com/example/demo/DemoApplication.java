@@ -3,7 +3,7 @@ package com.example.demo;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-@SpringBootApplication//嘎嘎嘎
+@SpringBootApplication//嘎嘎嘎我是my分支
 public class DemoApplication {
 
 	public static void main(String[] args) {
